@@ -1,7 +1,7 @@
 ## Who I Am
 I'm a developer from Mattoon, IL.  I'm married to Amanda, we have five kids together.
 
-## Wear I work
+## Where I work
 I split my time between serving as the pastor at [Bible Baptist Church](https://biblebaptistmattoon.org) and as an owner and technical director at [Build Online](https://buildonline.io).  I also work regularly on a few passion projects that tie together the worlds of church and development.
 
 ## What kind of developer I am
